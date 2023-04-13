@@ -1,0 +1,29 @@
+
+<resources>
+    <string name="app_name">Application</string>
+    <string name="login">Login</string>
+    <string name="texto1">1.Motivating the team to increase productivity</string>
+    <string name="conteudo1"> Brazil has an average of two doctors for every thousand inhabitants, a proportion well below the ideal, not to mention the irregular distribution of professionals across the national territory. Another problem is the remuneration lower than that of the private network, which removes excellent doctors from the SUS. In addition, there is also a lack of incentives that encourage the active participation of physicians, nurses, radiologists, among other professionals. In this case, some measures can be taken to improve the productivity of health professionals and also to increase motivation, such as, for example, establishing qualitative and quantitative goals together with the team and offering performance bonuses based on the results.
+    </string>
+    <string name="texto2">2.Minimizing management failures with trained professionals</string>
+    <string name="conteudo2"> According to a study carried out by the TCU, problems such as the lack of medicines in public hospitals are not related to the lack of resources. What happens, in most cases, are failures in management. It is important that professionals responsible for process management have experience not only in the health area, but also in management and administrative functions. Close monitoring is also necessary, demanding effective results and compliance with established goals. Another solution to minimize these failures are technological resources, such as Bethas Health management system. It allows access to information about managed units, with different indicators about the municipality, facilitating the visualization of information, decision-making and management as a whole.
+    </string>
+    <string name="texto3">3.Optimizing care in emergency rooms</string>
+    <string name="conteudo3"> One way to optimize service in emergency rooms is by offering the population a mobile application, where the user has access to their appointments, consultations, prescribed medications and tests carried out by SUS health facilities. Thus, the demand for face-to-face assistance is reduced and professionals are able to adequately optimize and prioritize their services.
+    </string>
+    <string name="texto4">4.Decreasing waits at reception</string>
+    <string name="conteudo4"> Network computerization for a hospital management system is a good solution to this problem. Data collection through electronic medical records reduces the consumption of office supplies and increases service speed, in addition to reducing the chance of errors. This computerized form provides professionals with exams, diagnoses, hospitalizations and data that help in future treatments, with the possibility of being accessed anywhere.
+    </string>
+    <string name="texto5">5.Training professionals </string>
+    <string name="conteudo5"> We understand, then, that one of the biggest challenges of Brazilian public health is to train trained professionals, who feel the need to build a career and who meet the necessary skills to work in public health care. In addition to the remuneration being lower than that of the private network, there is still a lack of a management policy focused on recognizing these professionals. This whole situation ends up pushing away future candidates for vacancies. However, this challenge can be countered by taking some actions.
+    </string>
+    <string name="texto6">6.Promoting integrated family care </string>
+    <string name="conteudo6"> A strategy to achieve better results in health care is to create integrated family care, to give continuity to treatments and prevent more serious problems — especially for the part of the population that lives in a vulnerable way. carry out tasks such as: understanding the reality of families and identifying the health problems to which they are exposed; performing necessary health surveillance procedures; ensuring continuity in treatments; guaranteeing comprehensive care, maintaining contact with families and promoting health from the health education; raising discussions about the concept of citizenship among communities, etc.
+    </string>
+    <string name="texto7">7.Creating more efficient and reliable reports </string>
+    <string name="conteudo7"> Public health care deals daily with a large volume of information from patients, professionals and units. In this context, it is essential to create efficient and reliable reports that facilitate decision-making and improve the organization. Currently, there are online systems specifically developed to help with data management, allowing, for example, the visualization of use of search filters. Another way to optimize processes would be to use systems for managing medical reports and personalized prescriptions, where it is possible to prescribe from a database with more than 30,000 medications and which is updated daily.
+    </string>
+    <string name="texto8">8. Investing in technology </string>
+    <string name="conteudo8"> The digital transformation brings significant changes, including for public health care. For hospitals, the emergence of technologies capable of assisting in care is essential. The creation of the Citizens Handbook (PEC) was just the first step, which made room for the insertion of other technologies, such as the Electronic Health Record (RES). In fact, technology helps public health care from end to end , and allows the implementation of different solutions. Furthermore, having strategic planning is essential and makes it possible to anticipate possible mishaps and seek to increasingly improve public health care.
+    </string>
+</resources>
